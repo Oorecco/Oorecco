@@ -1,0 +1,3 @@
+-- HI, I'm @oorecco! 
+-- I am currently a roblox scripter
+-- Lua is interesting tho... or python? or even C++? 
